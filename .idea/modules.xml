@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1Encapsulation/Day1Encapsulation.iml" filepath="$PROJECT_DIR$/Day1Encapsulation/Day1Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2BufferReader/Day2BufferReader.iml" filepath="$PROJECT_DIR$/Day2BufferReader/Day2BufferReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3Inheritance/Day3Inheritance.iml" filepath="$PROJECT_DIR$/Day3Inheritance/Day3Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coreJava.iml" filepath="$PROJECT_DIR$/.idea/coreJava.iml" />
     </modules>
   </component>
