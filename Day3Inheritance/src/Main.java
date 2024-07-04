@@ -3,6 +3,11 @@
 
 public class Main {
     public static void main(String[] args) {
+        //single level
+        //multi level
+        //hierarchial
+        //hybrid
+        //multiple inheritance is not supported , inheriting property from both classes causes ambiguity to consider which method or property to consider
         T1_single.Ebook e;
         e = new T1_single.Ebook("IND001", "108727", "How to become Sanyasi in 7 days", "Patashala");
         System.out.println(e.toString());

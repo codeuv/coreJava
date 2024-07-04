@@ -12,6 +12,9 @@ public class Main {
         //Different package subClass    No          No          Yes         Yes
         //Same package non subClass     No          No          No          yes
 
+        //sub class , inherited class , derived class , child class are one and the same
+        //base class and parent class
+
         //Its common pratice to take input from scanner object
         //there are other ways to take input
         //we can take from file and as well as
